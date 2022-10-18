@@ -6,6 +6,7 @@ Tecnologias Usadas:
 HTML - 
 CSS - 
 BOOTSTRAP - 
+LEAFLET -
 JAVASCRIPT - 
 EJS TEMPLATE ENGINE - 
 NODE JS - 
