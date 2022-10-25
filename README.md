@@ -45,3 +45,4 @@
 <img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix2.png"></img>
 <img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix3.png"></img>
 <img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix4.png"></img>
+<img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix5.png"></img>
