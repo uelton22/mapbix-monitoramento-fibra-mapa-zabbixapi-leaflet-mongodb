@@ -41,3 +41,5 @@
 <li> mongoose</li>
 <li> zabbix-promise</li>
 
+<img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix1.png"></img>
+
