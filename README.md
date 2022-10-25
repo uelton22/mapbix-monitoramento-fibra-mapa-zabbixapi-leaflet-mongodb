@@ -40,7 +40,9 @@
 <li> ZABBIX API
 <li> mongoose</li>
 <li> zabbix-promise</li>
-
+<br>
+<h5>Telas:</h5>
+<br>
 <img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix1.png"></img>
 <img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix2.png"></img>
 <img src="https://github.com/uelton22/mapbix-monitoramento-fibra-mapa-zabbixapi-leaflet-mongodb/raw/main/mapbix3.png"></img>
