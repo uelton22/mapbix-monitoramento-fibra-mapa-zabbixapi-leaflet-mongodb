@@ -1,15 +1,15 @@
 <h2>Aplicação para monitoramento de redes backbone usando Zabbix API e Mapas.</h2>
 
-Funções da Aplicação
-  Rotas:
-    Cadastro
-    Edição
-    Deletar
-    ICMP Ping
-    Status das interfaces
-    Consumo Download e Upload
-    Speed das Interfaces
-    Alto Consumo de Upload e Download
+<h5>Funções da Aplicação</h5>
+  <li>Rotas:</li>
+     <li>Cadastro</li>
+    <li> Edição</li>
+     <li>Deletar</li>
+     <li>ICMP Ping</li>
+     <li>Status das interfaces</li>
+     <li>Consumo Download e Upload</li>
+     <li>Speed das Interfaces</li></li>
+     <li>Alto Consumo de Upload e Download</li>
     
     
 
