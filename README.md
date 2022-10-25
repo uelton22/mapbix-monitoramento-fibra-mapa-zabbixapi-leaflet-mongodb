@@ -1,6 +1,7 @@
 <h2>Aplicação para monitoramento de redes backbone usando Zabbix API e Mapas.</h2>
 
 <h5>Funções da Aplicação</h5>
+<p>Trabalho em um provedor de internet ISP a mais de 3 anos, e sempre tivemos dificuldades de identificar um rompimento de fibra ou alto consumo em uma rota, vi a necessidade de cirar uma aplicação de mapas usando eventos da api do zabbix, mostrando no mapa a rota rompida etc, a aplicação monitora um determinado setor usando trigger.</p>
   <h5>Rotas:</h5>
      <li>Cadastro</li>
     <li> Edição</li>
